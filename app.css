@@ -24,5 +24,12 @@ body.body {
     align-items: center;
 }
 
+.imgs {
+    display: flex;
+}
 
+.imgs img {
+    width: 30px;
+    height: 30px;
+}
 
