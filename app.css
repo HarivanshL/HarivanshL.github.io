@@ -11,13 +11,12 @@
 }
 
 p {
-    text-align: center;
     font-size: 30px;
     color: black;
     margin-top: 10px;
     margin-bottom: 10px;
-    width: 600px;
-
+    width: 800px;
+    text-align: center;
 }
 
 body.body {
