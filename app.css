@@ -27,11 +27,13 @@ body.body {
 .imgs {
     display: flex;
     align-items: center; 
-    padding-left: 10px;
+    margin: auto;
 }
 
 .imgs img {
     margin-left: 15px ;
     margin-right: 15px;
+    width: 60px;
+    height: 60px;
 }
 
