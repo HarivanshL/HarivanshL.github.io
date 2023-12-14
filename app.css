@@ -1,24 +1,26 @@
-h.name {
+.name {
     text-align: center;
     font-size: 50px;
     color: black;  
 }
 
-h.header {
+.header {
  text-align: center;
  font-size: 40px;
  color: black;
 }
 
-p {
+.p {
     text-align: center;
     font-size: 30px;
     color: black;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    width: 70%;
+
 }
 
 body.body {
-    margin-bottom: 10px;
-    width: 80%;
     align-items: center;
 }
 
