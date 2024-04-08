@@ -1,0 +1,50 @@
+body {
+    background-color: #141414;
+}
+
+.center {
+    text-align: center;
+    color: white;
+    padding: 100px;
+}
+
+.bants-img {
+    width: 50%; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+  }
+h1 {
+    text-align: center;
+    font-size: 40px;
+    width: 100%;
+    color: white;
+
+}
+.center p {
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+img {
+    width: 50px;
+    height: 50px;
+    border: 2px solid #007bff;
+    padding: 10px;
+}
+
+.linkbar {
+    text-align: right;
+    border-bottom: 2px solid #007bff;
+    padding: 10px;
+}
+.link{
+    display: inline-block;
+    padding: 30px 40px;
+    background-color: #007bff; /* Button color */
+    color: #ffffff; /* Text color */
+    text-decoration: none; /* Remove default underline */
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
